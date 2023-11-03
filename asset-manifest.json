@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cooking-Ninja/static/css/main.a609c3dd.css",
-    "main.js": "/Cooking-Ninja/static/js/main.37634e29.js",
+    "main.js": "/Cooking-Ninja/static/js/main.54d8edf5.js",
     "index.html": "/Cooking-Ninja/index.html",
     "static/media/add.svg": "/Cooking-Ninja/static/media/add.1c59174103fba0f44c904eab57a71b17.svg",
     "static/media/mode-icon.svg": "/Cooking-Ninja/static/media/mode-icon.9b86dcd1cca26e54b58407dbfde815e5.svg",
@@ -10,10 +10,10 @@
     "static/media/heart-black.svg": "/Cooking-Ninja/static/media/heart-black.4edf84c45cbf7c9cb410d1477a2f3367.svg",
     "static/media/return.svg": "/Cooking-Ninja/static/media/return.1565e62af813a31259ae25f3364bfbe1.svg",
     "main.a609c3dd.css.map": "/Cooking-Ninja/static/css/main.a609c3dd.css.map",
-    "main.37634e29.js.map": "/Cooking-Ninja/static/js/main.37634e29.js.map"
+    "main.54d8edf5.js.map": "/Cooking-Ninja/static/js/main.54d8edf5.js.map"
   },
   "entrypoints": [
     "static/css/main.a609c3dd.css",
-    "static/js/main.37634e29.js"
+    "static/js/main.54d8edf5.js"
   ]
 }
